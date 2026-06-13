@@ -1,0 +1,19 @@
+{
+  "num_nodes": 10312,
+  "num_edges": 333983,
+  "avg_degree": 64.7756012412723,
+  "density": 0.006282184195642741,
+  "num_labels": 39,
+  "l_mean": 1.403801396431342,
+  "l_min": 1,
+  "l_max": 11,
+  "unlabeled_fraction": 0.0,
+  "label_homophily": 0.10321836529315652,
+  "feature_dim": 1,
+  "feature_sparsity": 1.0,
+  "clustering_coefficient": 0.46319567803302253,
+  "source": "data/blogcatalog.mat",
+  "dataset_origin": "real-world",
+  "features_note": "placeholder zero column; BlogCat has no node features, original training uses identity matrix",
+  "label_informativeness": 0.0096251042139585
+}

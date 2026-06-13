@@ -1,0 +1,29 @@
+{
+  "config": {
+    "n": 3000,
+    "feature_dim": 10,
+    "num_labels": 20,
+    "radius": null,
+    "radii_file": "data\\synthetic\\exp11_label_imbalance\\strong_skew\\radii.txt",
+    "radius_range": null,
+    "center_spread": 1.0,
+    "irrelevant_features": 10,
+    "sampling": "from_spheres",
+    "label_noise": 0.05,
+    "seed": 0,
+    "out": "data\\synthetic\\exp11_label_imbalance\\strong_skew"
+  },
+  "summary": {
+    "n": 3000,
+    "feature_dim_total": 20,
+    "feature_dim_relevant": 10,
+    "num_labels": 20,
+    "l_mean": 2.454,
+    "l_min": 0,
+    "l_max": 9,
+    "unlabeled_fraction": 0.011666666666666667,
+    "mean_radius": 0.45,
+    "min_radius": 0.25,
+    "max_radius": 0.65
+  }
+}

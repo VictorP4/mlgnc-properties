@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+networkx
+torch
+torchvision
+torchaudio
+torch-geometric
+torch-sparse
+torch-scatter
+ogb

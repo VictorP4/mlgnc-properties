@@ -1,0 +1,18 @@
+{
+  "num_nodes": 3233,
+  "num_edges": 37351,
+  "avg_degree": 23.106093411691926,
+  "density": 0.0071491625654987396,
+  "num_labels": 15,
+  "l_mean": 1.928240024744819,
+  "l_min": 1,
+  "l_max": 12,
+  "unlabeled_fraction": 0.0,
+  "label_homophily": 0.1739642057525113,
+  "feature_dim": 32,
+  "feature_sparsity": 0.0,
+  "clustering_coefficient": 0.34265964136199895,
+  "source": "data/pcg_removed_isolated_nodes/",
+  "dataset_origin": "real-world",
+  "label_informativeness": 0.0038492422614037
+}

@@ -1,0 +1,29 @@
+{
+  "config": {
+    "n": 3000,
+    "feature_dim": 10,
+    "num_labels": 23,
+    "radius": null,
+    "radii_file": null,
+    "radius_range": null,
+    "center_spread": 1.0,
+    "irrelevant_features": 10,
+    "sampling": "from_spheres",
+    "label_noise": 0.05,
+    "seed": 922810,
+    "out": "data\\synthetic\\exp12_li_sweep\\candidates\\h0.4_c22_raw"
+  },
+  "summary": {
+    "n": 3000,
+    "feature_dim_total": 20,
+    "feature_dim_relevant": 10,
+    "num_labels": 23,
+    "l_mean": 4.158333333333333,
+    "l_min": 0,
+    "l_max": 13,
+    "unlabeled_fraction": 0.0026666666666666666,
+    "mean_radius": 0.49172381695105155,
+    "min_radius": 0.18142003522774197,
+    "max_radius": 0.7996514444109928
+  }
+}

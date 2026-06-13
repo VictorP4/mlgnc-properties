@@ -1,0 +1,16 @@
+{
+  "num_nodes": 3000,
+  "num_edges": 14905,
+  "avg_degree": 9.936666666666667,
+  "density": 0.0033133266644437033,
+  "num_labels": 30,
+  "l_mean": 5.086666666666667,
+  "l_min": 0,
+  "l_max": 19,
+  "unlabeled_fraction": 0.0006666666666666666,
+  "label_homophily": 0.6148521030219785,
+  "alpha": 37.5,
+  "b": 0.06,
+  "target_h": 0.6,
+  "actual_h": 0.6148521030219785
+}

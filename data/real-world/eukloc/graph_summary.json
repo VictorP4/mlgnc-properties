@@ -1,0 +1,18 @@
+{
+  "num_nodes": 7766,
+  "num_edges": 11321,
+  "avg_degree": 2.915529229976822,
+  "density": 0.0003754706027014581,
+  "num_labels": 22,
+  "l_mean": 1.145634818439351,
+  "l_min": 1,
+  "l_max": 4,
+  "unlabeled_fraction": 0.0,
+  "label_homophily": 0.40480081264905926,
+  "feature_dim": 32,
+  "feature_sparsity": 0.0,
+  "clustering_coefficient": 0.06163099243325028,
+  "source": "data/EukaryoteGo",
+  "dataset_origin": "real-world",
+  "label_informativeness": 0.0897224618937819
+}

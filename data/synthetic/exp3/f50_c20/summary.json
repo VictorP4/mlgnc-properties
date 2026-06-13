@@ -1,0 +1,29 @@
+{
+  "config": {
+    "n": 3000,
+    "feature_dim": 50,
+    "num_labels": 20,
+    "radius": null,
+    "radii_file": null,
+    "radius_range": null,
+    "center_spread": 1.0,
+    "irrelevant_features": 0,
+    "sampling": "from_spheres",
+    "label_noise": 0.05,
+    "seed": 0,
+    "out": "data\\synthetic\\exp3\\f50_c20"
+  },
+  "summary": {
+    "n": 3000,
+    "feature_dim_total": 50,
+    "feature_dim_relevant": 50,
+    "num_labels": 20,
+    "l_mean": 2.404,
+    "l_min": 0,
+    "l_max": 11,
+    "unlabeled_fraction": 0.024666666666666667,
+    "mean_radius": 0.4830287140889686,
+    "min_radius": 0.15178002511059627,
+    "max_radius": 0.7577970754620494
+  }
+}

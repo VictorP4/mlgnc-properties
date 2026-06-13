@@ -1,0 +1,12 @@
+.idea
+.venv
+.vscode
+checkpoint.pt
+**/__pycache__/
+.tmp*
+
+# Auto-downloaded by scripts/convert_real_world.py
+data/OGB/
+data/Yelp/
+data/real-world/yelp/
+data/real-world/ogb-proteins/

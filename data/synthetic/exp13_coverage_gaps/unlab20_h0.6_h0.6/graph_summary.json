@@ -1,0 +1,20 @@
+{
+  "num_nodes": 3000,
+  "num_edges": 36112,
+  "avg_degree": 24.074666666666666,
+  "density": 0.00802756474380349,
+  "num_labels": 20,
+  "l_mean": 2.785,
+  "l_min": 0,
+  "l_max": 12,
+  "unlabeled_fraction": 0.20666666666666667,
+  "label_homophily": 0.4284613724305969,
+  "alpha": 4.6875,
+  "b": 0.04,
+  "target_h": 0.6,
+  "actual_h": 0.4284613724305969,
+  "label_informativeness": 0.24793764786669795,
+  "clustering_coefficient": 0.20475635358560249,
+  "_unlabel_applied": true,
+  "_unlabel_frac_target": 0.2
+}

@@ -1,0 +1,26 @@
+{
+  "num_nodes": 3000,
+  "num_edges": 457947,
+  "avg_degree": 305.298,
+  "density": 0.10179993331110371,
+  "num_labels": 20,
+  "l_mean": 3.5003333333333333,
+  "l_min": 0,
+  "l_max": 13,
+  "unlabeled_fraction": 0.007666666666666666,
+  "label_homophily": 0.2780620625352379,
+  "clustering_coefficient": 0.3275715735831056,
+  "alpha": 6.25,
+  "b": 0.12,
+  "target_h": 0.3,
+  "actual_h": 0.2780620625352379,
+  "rewire": {
+    "swaps_requested": 457947,
+    "swaps_accepted": 457947,
+    "swaps_rejected": 4494543,
+    "attempts": 4952490,
+    "h_before": 0.298061925151367,
+    "h_after": 0.2780620625351704,
+    "h_tolerance": 0.02
+  }
+}

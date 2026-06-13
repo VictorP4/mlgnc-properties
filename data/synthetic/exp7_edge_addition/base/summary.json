@@ -1,0 +1,29 @@
+{
+  "config": {
+    "n": 3000,
+    "feature_dim": 10,
+    "num_labels": 20,
+    "radius": null,
+    "radii_file": null,
+    "radius_range": null,
+    "center_spread": 1.0,
+    "irrelevant_features": 10,
+    "sampling": "from_spheres",
+    "label_noise": 0.05,
+    "seed": 0,
+    "out": "data\\synthetic\\exp7_edge_addition\\base"
+  },
+  "summary": {
+    "n": 3000,
+    "feature_dim_total": 20,
+    "feature_dim_relevant": 10,
+    "num_labels": 20,
+    "l_mean": 3.5003333333333333,
+    "l_min": 0,
+    "l_max": 13,
+    "unlabeled_fraction": 0.007666666666666666,
+    "mean_radius": 0.4830287140889686,
+    "min_radius": 0.15178002511059627,
+    "max_radius": 0.7577970754620494
+  }
+}

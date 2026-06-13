@@ -1,0 +1,18 @@
+{
+  "num_nodes": 28702,
+  "num_edges": 66832,
+  "avg_degree": 4.656957703295937,
+  "density": 0.00016225768103187826,
+  "num_labels": 4,
+  "l_mean": 1.180126820430632,
+  "l_min": 1,
+  "l_max": 4,
+  "unlabeled_fraction": 0.0,
+  "label_homophily": 0.7551958642566435,
+  "feature_dim": 300,
+  "feature_sparsity": 3.484077764615706e-05,
+  "clustering_coefficient": 0.607617415612981,
+  "source": "data/dblp",
+  "dataset_origin": "real-world",
+  "label_informativeness": 0.3181873542448178
+}
