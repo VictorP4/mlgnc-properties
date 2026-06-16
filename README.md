@@ -10,7 +10,7 @@ generators/   Synthetic dataset + graph construction
   sda.py                Social Distance Attachment edge sampler (Zhao 2023 Eq. 2)
   sweep_homophily.py    Binary-search alpha at each b to hit a target homophily
   add_random_edges.py   Uniform random edge addition (Exp 7)
-  rewire_clustering.py  Homophily-preserving Maslov-Sneppen swaps (Exp 4)
+  rewire_clustering.py  Homophily-preserving rewiring (Exp 4 - not used in the paper)
   properties.py         Homophily, CCNS, LI, clustering, summary
 
 models/       GCN and H2GCN training harness
